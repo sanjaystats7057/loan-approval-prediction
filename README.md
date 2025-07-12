@@ -94,6 +94,7 @@ loan-approval-prediction/
 3. Run all cells step by step
 
 Contact
+
 Made with ❤️ by Sanjay Chaudhary
 📧 sanjay.chaudhary.stats@gmail.com
 🔗 https://www.linkedin.com/in/sanjay-chaudhary-0599b0248
