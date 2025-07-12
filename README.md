@@ -96,20 +96,5 @@ loan-approval-prediction/
 Contact
 Made with ❤️ by Sanjay Chaudhary
 📧 sanjay.chaudhary.stats@gmail.com
-🔗 LinkedIn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+🔗 https://www.linkedin.com/in/sanjay-chaudhary-0599b0248
 
