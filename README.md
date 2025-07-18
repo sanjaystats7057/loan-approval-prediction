@@ -1,27 +1,27 @@
 # loan-approval-prediction
 Predicting loan approval using XGBoost, SMOTE, and feature selection
-# 🏦 Credit Risk Analysis using XGBoost & Random Forest
+#  Credit Risk Analysis using XGBoost & Random Forest
 
 This project focuses on predicting whether a loan application will be approved or not based on historical financial data. With over 1 million data points, we perform end-to-end Credit Risk Analysis using supervised machine learning techniques.
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 To predict the risk of loan default based on customer financial behavior and demographic features. The goal is to help financial institutions assess creditworthiness effectively using machine learning models.
 
 ---
 
-## 📂 Dataset Overview
+##  Dataset Overview
 
-- 📊 Total Rows: 1,000,001  
-- 🎯 Target Variable: `LoanApproved`  
-- ⚖️ Imbalance Issue: Addressed using SMOTE  
-- 🔗 [Download Full Dataset (Google Drive)](https://drive.google.com/file/d/1l_0v6cxfHBM82a3dXFE8qb55pBhRZlz1/view?usp=drive_link)
+-  Total Rows: 1,000,001  
+- Target Variable: `LoanApproved`  
+-  Imbalance Issue: Addressed using SMOTE  
+-  [Download Full Dataset (Google Drive)](https://drive.google.com/file/d/1l_0v6cxfHBM82a3dXFE8qb55pBhRZlz1/view?usp=drive_link)
 
 ---
 
-## 📈 EDA (Exploratory Data Analysis)
+##  EDA (Exploratory Data Analysis)
 
 - Checked for missing values  
 - Visualized class imbalance  
@@ -30,7 +30,7 @@ To predict the risk of loan default based on customer financial behavior and dem
 
 ---
 
-## 🧠 Machine Learning Models
+##  Machine Learning Models
 
 | Model             | Accuracy | AUC Score | After SMOTE |
 |------------------|----------|-----------|--------------|
@@ -39,15 +39,15 @@ To predict the risk of loan default based on customer financial behavior and dem
 
 ---
 
-## ⚙️ Feature Engineering
+##  Feature Engineering
 
 - Top 30 features selected using XGBoost importance  
-- Handled class imbalance using **SMOTE**  
+- Handled class imbalance using SMOTE  
 - Hyperparameter tuning via `RandomizedSearchCV`
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 - ROC Curve & Precision-Recall Curve  
 - Class Imbalance Before & After SMOTE  
@@ -56,7 +56,7 @@ To predict the risk of loan default based on customer financial behavior and dem
 
 ---
 
-## 📦 Technologies Used
+##  Technologies Used
 
 - Python  
 - Pandas, NumPy, Matplotlib, Seaborn  
@@ -65,7 +65,7 @@ To predict the risk of loan default based on customer financial behavior and dem
 
 ---
 
-## ✅ Project Highlights
+##  Project Highlights
 
 - Handled 1 million+ rows efficiently  
 - Applied SMOTE to handle class imbalance  
@@ -74,7 +74,7 @@ To predict the risk of loan default based on customer financial behavior and dem
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 loan-approval-prediction/
 │
 ├── credit_risk_analysis.ipynb # Main notebook
@@ -84,7 +84,7 @@ loan-approval-prediction/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repo:
    ```bash
